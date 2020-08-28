@@ -205,3 +205,9 @@ h6 {
     color: #3b91f7;
   }
 }
+
+@media (max-width: 767px) {
+  .hide-mobile {
+    display: none;
+  }
+}
